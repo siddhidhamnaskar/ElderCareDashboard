@@ -11,14 +11,15 @@ A full-stack real-time dashboard built to monitor elderly care IoT devices using
 
 ## 🛠 Tech Stack
 
-| Category     | Technology |
-|--------------|------------|
-| Frontend     | React.js, Tailwind CSS |
+| Layer        | Technology Used |
+|--------------|-----------------|
+| Frontend     | React.js, Material UI (MUI), Recharts, React Router |
+| Styling      | Emotion (CSS-in-JS) |
 | Backend      | Node.js, Express.js |
-| Database     | MySQL (via Sequelize) |
-| Real-Time    | MQTT.js (IoT integration) |
-| Auth & Security | JWT, API Key, CORS |
-| Dev Tools    | PM2, Morgan, Winston |
+| Database     | MySQL (Sequelize ORM) |
+| Real-Time    | MQTT.js, WebSocket |
+| Auth & Security | JWT, Google OAuth, API Key |
+| Deployment   | PM2, Vercel/Render (if used) |
 
 ---
 
