@@ -5,7 +5,10 @@ A full-stack real-time dashboard built to monitor elderly care IoT devices using
 ---
 
 ## 🚀 Live Demo
-*Add link if deployed (e.g. Render, Vercel)*
+🔗 Frontend : [https://elder-care-dashboard.vercel.app/](https://elder-care-dashboard.vercel.app/)
+🔗 Backend  : [https://eldercaredashboard.onrender.com/](https://eldercaredashboard.onrender.com/)
+
+
 
 ---
 
